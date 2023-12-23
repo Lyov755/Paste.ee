@@ -1,0 +1,27 @@
+{
+	"id": "819c3205-c7ba-4d47-a75f-47617a2dcdfe",
+	"name": "Paste.ee Levon",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://api.paste.ee/v1/pastes",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "userID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "envRandomData",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-12-23T13:12:49.310Z",
+	"_postman_exported_using": "Postman/10.21.8"
+}
